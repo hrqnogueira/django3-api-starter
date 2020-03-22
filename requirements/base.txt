@@ -1,0 +1,12 @@
+coreapi
+dj-database-url
+Django
+django-test-without-migrations
+djangorestframework
+djangorestframework-jwt
+django-cors-headers
+django-filter
+django-oauth-toolkit
+markdown
+python-decouple
+pytz
