@@ -38,4 +38,22 @@ Install all the dependencies:
 
     pip install -r requirements/dev.txt
     
+Run all the migrations:
+
+    python manage.py migrate
+    
+Create a superuser:
+
+    python manage.py createsuperuser
+    -- fill the form
+
+Run the server:
+
+    python manage.py runserver
+    
+URLs:
+* http://localhost:8000/core/
+* http://localhost:8000/api-docs
+* http://localhost:8000/admin
+    
 Done!
